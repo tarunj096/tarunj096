@@ -1,7 +1,7 @@
 ### Hi there,I'm Tarun 👋!
 
 - 🌱 I Blog my personal experiences and learnings at - [tarunjain](https://tarunjain.hashnode.dev/). 
-- 📫 How to reach me: -[tarunjain](https://twitter.com/i_amtarunjain).
+- 📫 How to reach me: - Twitter -[tarunjain](https://twitter.com/i_amtarunjain).
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=tarunj096&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
