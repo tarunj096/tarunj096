@@ -12,7 +12,7 @@
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/tarunj096/count.svg)
 
 
 <!--
