@@ -1,13 +1,10 @@
-### Hi there,I'm Tarun 👋!
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Tarun 👋!
 - 🔭 I’m a 4th year Undergraduate in Information Science 👨🏻‍💻. 
 - ⚡ A Java and Data Analysis enthusiast.
 - 🌱 I Blog my experiences and learnings at - [tarunjain](https://tarunjain.hashnode.dev/). 
 - 📫 How to reach me: - Twitter -[tarunjain](https://twitter.com/i_amtarunjain).
 
-<p align="center">
-<a href="https://github.com/tarunj096/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunj096&layout=compact&theme=tokyonight" /></a>
-  </br>
-  </br>
+## 𝗦𝘁𝗮𝘁𝘀
 </p>
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=tarunj096&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
