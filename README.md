@@ -12,7 +12,13 @@
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![Visitor Count](https://profile-counter.glitch.me/tarunj096/count.svg)
+
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/tarunj096/count.svg" alt="" /></td>
+  </tr>
+</table>
 
 
 <!--
