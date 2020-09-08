@@ -11,7 +11,7 @@
 </p>
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![Visitor Count](https : //profile-counter.glitch.me/{tarunj096}/count.svg)
+![Visitor Count](https : //profile-counter.glitch.me/tarunj096/count.svg)
 
 <!--
 **tarunj096/tarunj096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
