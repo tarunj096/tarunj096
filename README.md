@@ -1,6 +1,6 @@
 ### Hi there,I'm Tarun 👋!
 
-- 🌱 I Blog my personal experiences and learnings at - [tarunjain](https://tarunjain.hashnode.dev/). 
+- 🌱 I Blog my experiences and learnings at - [tarunjain](https://tarunjain.hashnode.dev/). 
 - 📫 How to reach me: - Twitter -[tarunjain](https://twitter.com/i_amtarunjain).
 
 <p align="center">
