@@ -1,8 +1,9 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Tarun 👋!
 - 🔭 I’m a 4th year Undergraduate in Information Science 👨🏻‍💻. 
 - ⚡ A Java and Data Analysis enthusiast.
-- 🌱 I Blog my experiences and learnings at - [tarunjain](https://tarunjain.hashnode.dev/). 
-- 📫 How to reach me: - Twitter -[tarunjain](https://twitter.com/i_amtarunjain).
+-✨ I’m currently taking the #100DaysOfCode Challenge.
+- 🌱 I Blog my learnings at - [tarunjain](https://tarunjain.hashnode.dev/). 
+- 📫 You can reach me on : - Twitter -[tarunjain](https://twitter.com/i_amtarunjain).
 
 ## 𝗦𝘁𝗮𝘁𝘀
 </p>
