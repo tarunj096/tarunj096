@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Tarun 👋!
 - ⚡ A Java and Data Analytics enthusiast.
-- 🌱 I Blog my learnings at - [tarunjain](https://tarunjain.hashnode.dev/). 
+- 🌱 I Blog my learnings at - [tarunjain](https://dev.to/tarunj096). 
 - 📫 You can reach me on : - Twitter -[tarunjain](https://twitter.com/i_amtarunjain).
 
 ## 𝗦𝘁𝗮𝘁𝘀
